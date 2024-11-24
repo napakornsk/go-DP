@@ -1,4 +1,17 @@
 # go-DP
 
-You can test by simply type "make runexe" in the terminal
-If you don't have makefile install you can either type "./bin/dp" in the terminal
+## Running the Servers
+
+### Dynamic Programming Test
+
+### main program
+
+To start the main program, use the following command:
+
+```bash
+make runexe
+```
+Alternatively, you can run the REST API directly with:
+```bash
+./bin/dp
+```
